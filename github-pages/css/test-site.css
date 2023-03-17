@@ -1,0 +1,7 @@
+section{
+    margin:1rem;
+}
+.container_text-input{
+    display: flex;
+    flex-direction: column;
+}
